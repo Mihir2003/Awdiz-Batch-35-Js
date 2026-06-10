@@ -9,7 +9,7 @@ console.log(age, age, age);
 
 
 
-var number = 1; // declare and assign 
+var number = 1; // declare and assign
 console.log(number);
 
 number = 2; // re assign
