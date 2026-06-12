@@ -2,7 +2,7 @@
 //string//
 
 let name = "mihir";
-let email = 'mihirnighol@gmail.com'
+let email = 'mihirnighol@gmail.com';
 let password = `mihir@12345`;
 
 console.log(name,email,password);
@@ -11,7 +11,7 @@ console.log(typeof(name,email,password));
 
 // number //
 
-let age = 21 ;
+let age = 22 ;
 console.log( age);
 console.log(typeof(age));
 
